@@ -77,3 +77,5 @@ for i in range(100):
 
 print(f"Поточний розмір: {ht.capacity}")
 
+#push
+
